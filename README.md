@@ -12,14 +12,14 @@ You need to have spaCy installed, as well as its English language model (en_core
 
 Type the following commands in command line (start: type "cmd" and a black window opens)
 pip3 install spacy
-python3 -m spacy download en_core_web_md  
-----------------OR----------------------
-pip install spacy
-python -m spacy download en_core_web_md
 
-Once installed, import spacy and load the English language model
-import spacy
-nlp = spacy.load('en_core_web_md')
+python3 -m spacy download en_core_web_md  
+
+----------------OR----------------------
+
+pip install spacy
+
+python -m spacy download en_core_web_md
 
 ### tabulate
 Make sure you have the tabulate library installed by doing the following:
