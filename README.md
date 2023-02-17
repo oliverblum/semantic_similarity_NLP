@@ -3,7 +3,7 @@
 This project uses an NLP model to calculate the similarity of words and sentences
 
 ### watch_next.py:
-The similarity between sentences is used to build a function that returns which movie
+The similarity between sentences is used to build a function that returns which movie (in the provided list of movies.txt)
 a user would likely want to watch next if he has just watched Planet Hulk.
 
 ## Installation
