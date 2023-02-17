@@ -1,8 +1,10 @@
 # Semantic similarity (NLP Project)
+### movies.py: 
 This project uses an NLP model to calculate the similarity of words and sentences
 
+### watch_next.py:
 The similarity between words and sentences can be used to make a suggestion of what
-a user might want to watch next based what movies he watched in the past
+a user might want to watch next (out of a list of movies) based what movies he watched in the past
 
 ## Installation
 ### spaCy
